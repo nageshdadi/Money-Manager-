@@ -1,0 +1,91 @@
+/* Write your CSS here */
+.bgContsiner {
+  padding: 20px;
+}
+.topCard {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  padding: 10px;
+  width: 80%;
+  border-radius: 14px;
+}
+.spanMoney {
+  color: #0b69ff;
+}
+.balanceCard {
+  display: flex;
+  margin: 10px;
+}
+.yourBalanceCard {
+  background-color: #ecfccb;
+  border-radius: 10px;
+  width: 150px;
+  height: 70px;
+  display: flex;
+  margin: 10px;
+}
+.yourBal {
+  height: 20px;
+  width: 20px;
+  margin: 10px;
+}
+.para {
+  font-size: 10px;
+}
+.headBal {
+  font-size: 15px;
+  font-weight: bold;
+}
+.income {
+  background-color: #cffafe;
+}
+.Expenses {
+  background-color: #ede9fe;
+}
+.form-card {
+  padding: 10px;
+  border: 1px solid black;
+  width: 350px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.bottomCard {
+  display: flex;
+}
+.button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 10px;
+  width: 60px;
+  border-radius: 8px;
+  border-width: 0px;
+  margin: 10px;
+  height: 30px;
+}
+.historyCard {
+  padding: 10px;
+  border: 1px solid black;
+  width: 350px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.historyHead {
+  font-size: 14px;
+}
+.ulListCard {
+  padding: 10px;
+}
+.listHistory {
+  list-style-type: none;
+  border: 1px solid black;
+  border-radius: 9px;
+  padding: 7px;
+  display: flex;
+  align-items: center;
+  height: 30px;
+}
+.listPara {
+  font-size: 12px;
+  margin-right: 35px;
+  font-weight: solid;
+}

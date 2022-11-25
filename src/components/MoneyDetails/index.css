@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.form-card {
+  padding: 10px;
+  border: 1px solid black;
+  width: 350px;
+  margin: 10px;
+  border-radius: 10px;
+}
